@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My_learnings/chest_cancer_prediction/mlruns/0/66fcadf7a4d5483688df6f76b0e9de81/artifacts
+end_time: 1745085696519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66fcadf7a4d5483688df6f76b0e9de81
+run_name: judicious-zebra-750
+run_uuid: 66fcadf7a4d5483688df6f76b0e9de81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745085690384
+status: 3
+tags: []
+user_id: Chulaxshan

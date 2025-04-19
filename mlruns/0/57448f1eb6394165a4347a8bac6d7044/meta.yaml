@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My_learnings/chest_cancer_prediction/mlruns/0/57448f1eb6394165a4347a8bac6d7044/artifacts
+end_time: 1745085631885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57448f1eb6394165a4347a8bac6d7044
+run_name: nosy-perch-485
+run_uuid: 57448f1eb6394165a4347a8bac6d7044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745085626203
+status: 3
+tags: []
+user_id: Chulaxshan
